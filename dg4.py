@@ -21,7 +21,7 @@ from pptx.dml.color import RGBColor
 
 
 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyAO4CDjz08S2j-79EsPe2uyDtBtNT9TfeY'
+os.environ['GOOGLE_API_KEY'] = '##################################'
 load_dotenv()
 
 def get_pdf_text(pdf_docs):
